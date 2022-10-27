@@ -1,0 +1,10 @@
+04:27:01 true, Count : 626
+04:30:01 true, Count : 174
+04:32:01 true, Count : 119
+04:34:02 true, Count : 118
+04:36:01 true, Count : 118
+11:13:01 true, Count : 112
+11:15:01 true, Count : 120
+11:30:01 true, Count : 144
+11:52:01 true, Count : 127
+11:54:01 true, Count : 114
